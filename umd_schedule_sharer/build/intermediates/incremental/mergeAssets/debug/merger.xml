@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="20.0.0" >
+        <source path="/Users/jkau/dev/UMDScheduleSharerAndroidStudio/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/assets" />
+    </dataSet>
+    <dataSet config="19.1.0" >
+        <source path="/Users/jkau/dev/UMDScheduleSharerAndroidStudio/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/assets" />
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="/Users/jkau/dev/UMDScheduleSharerAndroidStudio/build/intermediates/exploded-aar/UMDScheduleSharerAndroidStudio/facebookSDK/unspecified/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/jkau/dev/UMDScheduleSharerAndroidStudio/umd_schedule_sharer/src/main/assets" >
+            <file
+                name="fonts/Lato-Bol.ttf"
+                path="/Users/jkau/dev/UMDScheduleSharerAndroidStudio/umd_schedule_sharer/src/main/assets/fonts/Lato-Bol.ttf" />
+            <file
+                name="fonts/Lato-Lig.ttf"
+                path="/Users/jkau/dev/UMDScheduleSharerAndroidStudio/umd_schedule_sharer/src/main/assets/fonts/Lato-Lig.ttf" />
+            <file
+                name="fonts/Lato-Reg.ttf"
+                path="/Users/jkau/dev/UMDScheduleSharerAndroidStudio/umd_schedule_sharer/src/main/assets/fonts/Lato-Reg.ttf" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/jkau/dev/UMDScheduleSharerAndroidStudio/umd_schedule_sharer/src/debug/assets" />
+    </dataSet>
+
+</merger>

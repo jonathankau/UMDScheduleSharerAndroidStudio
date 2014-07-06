@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:facebook="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:paddingBottom="20dp" >
+
+    <FrameLayout
+        android:id="@+id/picture_frame"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/circular_prof_red"
+        android:padding="3dp"
+        android:visibility="gone" >
+
+        <ImageView
+            android:id="@+id/test_prof_pic"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:gravity="center" />
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/selection_user_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:text="Jonathan Kau"
+        android:textColor="#899AA7"
+        android:textSize="16sp"
+        android:visibility="gone" />
+
+    <FrameLayout
+        android:id="@+id/schedule_frame"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:background="@drawable/bg_card_white"
+        android:gravity="center" 
+        android:paddingRight="20dp"
+        android:paddingLeft="20dp">
+
+        <WebView
+            android:id="@+id/schedule_browser"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scrollbars="none"
+            android:visibility="visible" />
+
+        <!--
+            <ImageView
+            android:id="@+id/schedule_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center" />
+        -->
+    </FrameLayout>
+
+<!--     <com.facebook.widget.LoginButton -->
+<!--         android:id="@+id/fb_share" -->
+<!--         style="@style/RedButton" -->
+<!--         android:layout_marginTop="25dp" -->
+<!--         android:background="@drawable/red_button" -->
+<!--         android:onClick="shareToFacebook" -->
+<!--         android:text="Share on Facebook" -->
+<!--         android:textSize="16sp" -->
+<!--         facebook:login_text="Share on Facebook" -->
+<!--         facebook:logout_text="Share on Facebook" /> -->
+
+    <Button
+        android:id="@+id/fb_share"
+        style="@style/RedButton"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/red_button"
+        android:onClick="shareToFacebook"
+        android:text="Share on Facebook"
+        android:textSize="16sp"/>
+
+</LinearLayout><!-- From: file:/Users/jkau/dev/UMDScheduleSharerAndroidStudio/umd_schedule_sharer/src/main/res/layout/fragment_schedule.xml -->

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Social Scheduler</string>
+
+    <string-array name="semester_selection">
+        <item>Fall 2013</item>
+        <item>Spring 2013</item>
+        <item>Winter 2013</item>
+        <item>Fall 2012</item>
+        <item>Spring 2012</item>
+    </string-array>
+
+    <string name="main_title">UMD Social Scheduler</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_sign_in">Social Scheduler</string>
+    <string name="app_id">316801275074193</string>
+    <string name="semester_prompt">Choose Semester</string>
+
+    <string-array name="semesters_array">
+        <item>Fall 2013</item>
+        <item>Winter 2014</item>
+        <item>Spring 2014</item>
+        <item>Summer I 2014</item>
+        <item>Summer II 2014</item>
+    </string-array>
+
+    <string name="title_activity_schedule">Social Scheduler</string>
+
+</resources>
