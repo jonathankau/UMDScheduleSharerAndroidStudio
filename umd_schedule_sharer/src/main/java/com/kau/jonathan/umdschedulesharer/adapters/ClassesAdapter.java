@@ -1,7 +1,5 @@
 package com.kau.jonathan.umdschedulesharer.adapters;
 
-import java.util.LinkedList;
-
 import android.content.Context;
 import android.graphics.Typeface;
 import android.view.LayoutInflater;
@@ -16,6 +14,8 @@ import com.kau.jonathan.umdschedulesharer.R.id;
 import com.kau.jonathan.umdschedulesharer.R.layout;
 import com.kau.jonathan.umdschedulesharer.models.ClassDataHolder;
 import com.kau.jonathan.umdschedulesharer.views.NonScrollableGridView;
+
+import java.util.LinkedList;
 
 public class ClassesAdapter extends BaseAdapter {
 	private final LayoutInflater inflater;

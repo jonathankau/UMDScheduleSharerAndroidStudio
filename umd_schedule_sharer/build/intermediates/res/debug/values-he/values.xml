@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/Users/jkau/dev/UMDScheduleSharerAndroidStudio/build/intermediates/exploded-aar/UMDScheduleSharerAndroidStudio/facebookSDK/unspecified/res/values-he/values.xml -->
+    <!-- From: file:/Users/jkau/dev/UMDScheduleSharerAndroidStudio/build/intermediates/exploded-aar/UMDScheduleSharerAndroidStudio/facebook/unspecified/res/values-he/values.xml -->
     <eat-comment />
 
     <string name="com_facebook_choose_friends">בחר חברים</string>

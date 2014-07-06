@@ -61,4 +61,4 @@
             android:layout_marginRight="10dip"
             android:layout_toLeftOf="@id/com_facebook_picker_divider"/>
 </RelativeLayout>
-<!-- From: file:/Users/jkau/dev/UMDScheduleSharerAndroidStudio/facebookSDK/src/main/res/layout/com_facebook_picker_title_bar.xml --><!-- From: file:/Users/jkau/dev/UMDScheduleSharerAndroidStudio/build/intermediates/exploded-aar/UMDScheduleSharerAndroidStudio/facebookSDK/unspecified/res/layout/com_facebook_picker_title_bar.xml -->
+<!-- From: file:/Users/jkau/dev/UMDScheduleSharerAndroidStudio/facebook/res/layout/com_facebook_picker_title_bar.xml --><!-- From: file:/Users/jkau/dev/UMDScheduleSharerAndroidStudio/build/intermediates/exploded-aar/UMDScheduleSharerAndroidStudio/facebook/unspecified/res/layout/com_facebook_picker_title_bar.xml -->

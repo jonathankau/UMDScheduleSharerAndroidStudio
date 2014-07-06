@@ -1,19 +1,5 @@
 package com.kau.jonathan.umdschedulesharer.adapters;
 
-import java.io.ByteArrayOutputStream;
-import java.io.IOException;
-import java.util.LinkedList;
-import java.util.Set;
-
-import org.apache.http.HttpEntity;
-import org.apache.http.HttpResponse;
-import org.apache.http.HttpStatus;
-import org.apache.http.StatusLine;
-import org.apache.http.client.ClientProtocolException;
-import org.apache.http.client.HttpClient;
-import org.apache.http.client.methods.HttpGet;
-import org.apache.http.impl.client.DefaultHttpClient;
-
 import android.app.Dialog;
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -47,10 +33,23 @@ import com.kau.jonathan.umdschedulesharer.R.drawable;
 import com.kau.jonathan.umdschedulesharer.R.id;
 import com.kau.jonathan.umdschedulesharer.R.layout;
 import com.kau.jonathan.umdschedulesharer.activities.ScheduleActivity;
-import com.kau.jonathan.umdschedulesharer.activities.SignInActivity;
 import com.kau.jonathan.umdschedulesharer.models.FriendDataHolder;
 import com.kau.jonathan.umdschedulesharer.views.TouchImageView;
 import com.squareup.picasso.Picasso;
+
+import org.apache.http.HttpEntity;
+import org.apache.http.HttpResponse;
+import org.apache.http.HttpStatus;
+import org.apache.http.StatusLine;
+import org.apache.http.client.ClientProtocolException;
+import org.apache.http.client.HttpClient;
+import org.apache.http.client.methods.HttpGet;
+import org.apache.http.impl.client.DefaultHttpClient;
+
+import java.io.ByteArrayOutputStream;
+import java.io.IOException;
+import java.util.LinkedList;
+import java.util.Set;
 
 public class FriendListAdapter extends BaseAdapter {
 	private final LayoutInflater inflater;

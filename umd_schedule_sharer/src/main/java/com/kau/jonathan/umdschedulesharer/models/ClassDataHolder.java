@@ -1,6 +1,5 @@
 package com.kau.jonathan.umdschedulesharer.models;
 
-import java.util.HashMap;
 import java.util.LinkedList;
 
 public class ClassDataHolder implements Comparable<ClassDataHolder>{

@@ -1,27 +1,22 @@
 package com.kau.jonathan.umdschedulesharer.adapters;
 
-import java.util.Collection;
-import java.util.LinkedList;
-import java.util.Set;
-
-import com.kau.jonathan.umdschedulesharer.R;
-import com.kau.jonathan.umdschedulesharer.R.drawable;
-import com.kau.jonathan.umdschedulesharer.R.id;
-import com.kau.jonathan.umdschedulesharer.R.layout;
-import com.kau.jonathan.umdschedulesharer.adapters.FriendListAdapter.ViewHolder;
-import com.kau.jonathan.umdschedulesharer.models.FriendDataHolder;
-import com.kau.jonathan.umdschedulesharer.models.ClassDataHolder.FriendSectionData;
-import com.squareup.picasso.Picasso;
-
 import android.content.Context;
 import android.graphics.Typeface;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
-import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.kau.jonathan.umdschedulesharer.R;
+import com.kau.jonathan.umdschedulesharer.R.drawable;
+import com.kau.jonathan.umdschedulesharer.R.id;
+import com.kau.jonathan.umdschedulesharer.R.layout;
+import com.kau.jonathan.umdschedulesharer.models.ClassDataHolder.FriendSectionData;
+import com.squareup.picasso.Picasso;
+
+import java.util.LinkedList;
 
 public class FriendGridAdapter extends BaseAdapter {
 	private final LayoutInflater inflater;

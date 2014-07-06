@@ -18,4 +18,4 @@
   <item android:state_checked="true" android:drawable="@drawable/com_facebook_button_check_on" />
   <item android:drawable="@drawable/com_facebook_button_check_off" />
 </selector>
-<!-- From: file:/Users/jkau/dev/UMDScheduleSharerAndroidStudio/facebookSDK/src/main/res/drawable/com_facebook_button_check.xml --><!-- From: file:/Users/jkau/dev/UMDScheduleSharerAndroidStudio/build/intermediates/exploded-aar/UMDScheduleSharerAndroidStudio/facebookSDK/unspecified/res/drawable/com_facebook_button_check.xml -->
+<!-- From: file:/Users/jkau/dev/UMDScheduleSharerAndroidStudio/facebook/res/drawable/com_facebook_button_check.xml --><!-- From: file:/Users/jkau/dev/UMDScheduleSharerAndroidStudio/build/intermediates/exploded-aar/UMDScheduleSharerAndroidStudio/facebook/unspecified/res/drawable/com_facebook_button_check.xml -->

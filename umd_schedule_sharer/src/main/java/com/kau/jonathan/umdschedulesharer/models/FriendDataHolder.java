@@ -3,9 +3,6 @@ package com.kau.jonathan.umdschedulesharer.models;
 import java.util.Iterator;
 import java.util.Set;
 
-import android.widget.ImageView;
-import android.widget.TextView;
-
 public class FriendDataHolder implements Comparable<FriendDataHolder> {
 	String name;
 	long facebookID;

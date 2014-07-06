@@ -52,4 +52,4 @@
       android:src="@drawable/com_facebook_tooltip_blue_bottomnub"
       />
 </RelativeLayout>
-<!-- From: file:/Users/jkau/dev/UMDScheduleSharerAndroidStudio/facebookSDK/src/main/res/layout/com_facebook_tooltip_bubble.xml --><!-- From: file:/Users/jkau/dev/UMDScheduleSharerAndroidStudio/build/intermediates/exploded-aar/UMDScheduleSharerAndroidStudio/facebookSDK/unspecified/res/layout/com_facebook_tooltip_bubble.xml -->
+<!-- From: file:/Users/jkau/dev/UMDScheduleSharerAndroidStudio/facebook/res/layout/com_facebook_tooltip_bubble.xml --><!-- From: file:/Users/jkau/dev/UMDScheduleSharerAndroidStudio/build/intermediates/exploded-aar/UMDScheduleSharerAndroidStudio/facebook/unspecified/res/layout/com_facebook_tooltip_bubble.xml -->

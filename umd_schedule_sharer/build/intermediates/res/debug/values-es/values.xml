@@ -17,7 +17,7 @@
     <string name="abc_searchview_description_voice" msgid="893419373245838918">"Búsqueda por voz"</string>
     <string name="abc_shareactionprovider_share_with" msgid="3421042268587513524">"Compartir con"</string>
     <string name="abc_shareactionprovider_share_with_application" msgid="7165123711973476752">"Compartir con %s"</string>
-    <!-- From: file:/Users/jkau/dev/UMDScheduleSharerAndroidStudio/build/intermediates/exploded-aar/UMDScheduleSharerAndroidStudio/facebookSDK/unspecified/res/values-es/values.xml -->
+    <!-- From: file:/Users/jkau/dev/UMDScheduleSharerAndroidStudio/build/intermediates/exploded-aar/UMDScheduleSharerAndroidStudio/facebook/unspecified/res/values-es/values.xml -->
     <eat-comment />
 
     <string name="com_facebook_choose_friends">Elige Amigos</string>

@@ -46,4 +46,4 @@
             android:layout_height="23dip"
             android:layout_marginRight="10dip"/>
 </LinearLayout>
-<!-- From: file:/Users/jkau/dev/UMDScheduleSharerAndroidStudio/facebookSDK/src/main/res/layout/com_facebook_picker_list_row.xml --><!-- From: file:/Users/jkau/dev/UMDScheduleSharerAndroidStudio/build/intermediates/exploded-aar/UMDScheduleSharerAndroidStudio/facebookSDK/unspecified/res/layout/com_facebook_picker_list_row.xml -->
+<!-- From: file:/Users/jkau/dev/UMDScheduleSharerAndroidStudio/facebook/res/layout/com_facebook_picker_list_row.xml --><!-- From: file:/Users/jkau/dev/UMDScheduleSharerAndroidStudio/build/intermediates/exploded-aar/UMDScheduleSharerAndroidStudio/facebook/unspecified/res/layout/com_facebook_picker_list_row.xml -->
